@@ -14,7 +14,7 @@ header {
     justify-content:space-between; 
     border-bottom:1px solid #d0cece;
     position: fixed;
-    
+    z-index: 1;
 }
 
 .logo_container {
